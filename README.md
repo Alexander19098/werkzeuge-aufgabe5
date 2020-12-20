@@ -1,0 +1,2 @@
+Beide changes müssen akzeptiert werden, sodass zwei "System.out.println"-Befehle in der Datei sind.
+"Hallo Welt" wird bei beiden Befehlen durch "Moin" ersetzt, sodass beim ausführen "Moin Moin" ausgegeben wird.
